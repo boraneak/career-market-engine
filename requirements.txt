@@ -1,0 +1,6 @@
+requests
+groq
+python-dotenv
+streamlit
+pandas
+black
