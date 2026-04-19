@@ -8,3 +8,4 @@ venv/
 ingester
 parser
 warehouse
+career_market.db
