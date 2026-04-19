@@ -39,7 +39,6 @@ else:
     # Just check the file date
     last_mod = datetime.datetime.fromtimestamp(os.path.getmtime(config.DB_PATH))
     st.sidebar.write(f"**Data Last Updated:** {last_mod.strftime('%b %d, %H:%M')}")
-    st.sidebar.info("Status: Local Manual Run")
 
     # --- FILTERING LOGIC ---
     filtered_df = df.copy()
