@@ -204,21 +204,3 @@ This engine relies on:
 This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for details.
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest features
-- Submit pull requests
-- Improve documentation
-
----
-
-## 📞 Questions?
-
-Found a bug? Have a feature idea? Open an [issue](https://github.com/boraneak/career-market-engine/issues)!
-
----
-
-**Built with ❤️ by [@boraneak](https://github.com/boraneak)**
